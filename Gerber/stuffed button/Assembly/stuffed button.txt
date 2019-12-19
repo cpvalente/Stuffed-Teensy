@@ -1,0 +1,5 @@
+Partlist exported from C:/Users/carlo/Dropbox (DAC)/Apps/EAGLE/projects/stuffed button/stuffed button.sch at 19/12/2019 17:24
+
+Qty Value                          Device                         Package                 Parts Description                          POPULARITY PROD_ID    SF_SKU   
+1                                  JP1E                           JP1                     JP1   JUMPER                               61                             
+1   MOMENTARY-SWITCH-SPST-PTH-12MM MOMENTARY-SWITCH-SPST-PTH-12MM TACTILE_SWITCH_PTH_12MM S1    Momentary Switch (Pushbutton) - SPST            SWCH-09185 COM-09190
